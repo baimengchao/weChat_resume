@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/experience/experience",
+    "pages/skill/skill",
+    "pages/contactMe/contactMe",
+    "pages/template/template",
+    "pages/project/project"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "#fff"
+  },
+  "tabBar": {
+    "selectedColor": "#000",
+    "backgroundColor": "#fff",
+    "color": "#999",
+    "fontSize": "4vw",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "基本信息"
+      },
+      {
+        "pagePath": "pages/experience/experience",
+        "text": "工作经历"
+      },
+      {
+        "pagePath": "pages/skill/skill",
+        "text": "职业技能"
+      },
+      {
+        "pagePath": "pages/project/project",
+        "text": "项目案例"
+      },
+      {
+        "pagePath": "pages/contactMe/contactMe",
+        "text": "联系我"
+      }
+    ]
+  }
+}

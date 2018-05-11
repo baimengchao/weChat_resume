@@ -1,0 +1,11 @@
+<view class="container">
+     
+    <view class="view_top_title" bindtap="getPosition">
+      求职范围
+    </view>
+    <map class="map" id="map" scale="{{scale}}" longitude="{{longitude}}" latitude="{{latitude}}"   circles="{{circles}}"></map>
+    
+  <view class="outer_box"> 
+    <personInfo></personInfo>
+  </view>
+</view>

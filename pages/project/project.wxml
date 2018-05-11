@@ -1,0 +1,34 @@
+
+<view class="container">
+  <view class="outer_box">    
+    <view class="view_top_title">
+      项目案例
+    </view>
+    <view class="experience_box">
+      <view class="experience_title">
+      1. 拓扑官网（http://www.51icb.com   PC和移动端）
+      </view>
+      <view class="experience_content">
+      负责项目前端页面交互以及部分node数据绑定，参与页面动画构思，选择技术方案。经过对比最终选择使用css3和canvas制作动画，使页面更加流畅，解决了浏览器兼容的问题，并且使用nodejs完成了部分页面数据绑定，最终制作出高端、大气、上档次的官网。
+      </view>
+      <view class="experience_title">
+      2. 封装腾讯地图插件，github地址（https://github.com/TopuNet/qq_map）
+      </view>
+      <view class="experience_content">
+      现有地图插件不能满足公司需求，需要根据腾讯api封装自己的插件。我独立完成此任务，通过一段时间学习和研究，解决了ios与android兼容问题，成功完成了在项目中使用方便，满足团队需求的属于我们自己的插件，最后在其他项目中得到推广使用。
+      </view>
+      <view class="experience_title">
+      3. 清风医疗（http://glqfzy.com   PC和移动端）
+      </view>
+      <view class="experience_content">
+      负责项目前台页面及数据交互，参与前台交互效果讨论，独立完成PC及移动端前台制作，PC端兼容IE7及以上版本，移动端兼容ios和android，与后端人员配合完成页面数据绑定。
+      </view>
+      <view class="experience_title">
+      4. 微信项目：私寓（微信公众号:私寓汇）
+      </view>
+      <view class="experience_content">
+      负责项目前台页面、数据交互以及业务逻辑，此项目涉及到微信API使用只能在微信中打开。为保持良好的交互效果项目中引用了微信样式库，还应用了我封装的腾讯地图插件（地图页面和门店列表页面），并且项目中下订单页面的业务逻辑由我负责，根据下订单流程控制订单页面操作，引导用户完成订单。
+      </view>
+    </view>
+  </view>
+</view>

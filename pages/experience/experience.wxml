@@ -1,0 +1,21 @@
+<view class="container">
+  <view class="outer_box">    
+    <view class="view_top_title">
+      工作经历
+    </view>
+    <view class="experience_box">
+      <view class="experience_title">
+      1. 北京合众康桥科技发展有限公司  （2015-03~2016-03）
+      </view>
+      <view class="experience_content">
+      职务：前端开发，负责公司网站前端页面以及ajax数据交互。完成PC端和移动端页面，并且兼容IE、chrome、firefox 等浏览器。
+      </view>
+      <view class="experience_title">
+      2. 北京拓扑高科信息技术有限公司(元吉科技)  （2016-03~今）
+      </view>
+      <view class="experience_content">
+      职务：前端开发，负责公司网站前端页面以及ajax数据交互。完成PC端和移动端页面，并且兼容IE、chrome、firefox 等浏览器；参与项目研讨，制定项目工作计划；封装插件，封装工作中常用插件，方便复用；参与重构优化项目，提高效率。
+      </view>
+    </view>
+  </view>
+</view>

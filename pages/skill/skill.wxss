@@ -1,0 +1,20 @@
+/* pages/skill/skill.wxss */
+
+.skill_box {
+  font-size: 4vw;
+  line-height: 8vw;
+  color:#666;
+  margin-top: 4vw;
+  margin-bottom: 4vw;
+  float: left;
+}
+
+.skill_box .left{
+  width: 6vw;
+  float: left;
+}
+
+.skill_box .right {
+  width: 86vw;
+  float: left;
+}

@@ -1,0 +1,61 @@
+<template name="person_infor">
+<view class="view_infor">
+    <view class="box">
+      <view class="box_left">
+       姓名：   
+      </view>
+      <view class="box_right">
+      {{app.name}}
+      </view>
+    </view>
+    <view class="box">
+      <view class="box_left">
+       职位：   
+      </view>
+      <view class="box_right">
+      {{app.post}}
+      </view>
+    </view>
+    <view class="box">
+      <view class="box_left">
+       性别：   
+      </view>
+      <view class="box_right">
+      {{app.sex}}
+      </view>
+    </view>
+    <view class="box">
+      <view class="box_left">
+       年龄：   
+      </view>
+      <view class="box_right letter">
+      {{app.age}}
+      </view>
+    </view>
+    <view class="box">
+      <view class="box_left">
+       工作经验：   
+      </view>
+      <view class="box_right">
+      {{app.work_age}}
+      </view>
+    </view>
+    <view class="box">
+      <view class="box_left">
+       电话：   
+      </view>
+      <view class="box_right letter">
+      {{app.phone}}
+      <view class="call_me" bindtap="callMe">联系他</view>
+      </view>
+    </view>
+    <view class="box">
+      <view class="box_left">
+       邮箱：   
+      </view>
+      <view class="box_right letter">
+      {{app.email}}
+      </view>
+    </view>
+  </view>
+</template>

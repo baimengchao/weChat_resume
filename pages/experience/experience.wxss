@@ -1,0 +1,26 @@
+/* pages/experience/experience.wxss */
+
+.title {
+  width: 100%;
+  height: 10vw;
+  line-height: 10vw;
+}
+.content {
+  text-indent: 2em;
+  line-height: 8vw;
+}
+/* 经历标题*/
+.experience_title {
+  font-size: 4vw;
+  line-height: 8vw;
+  color: #333;
+  margin-top: 4vw;
+}
+
+/* 经历内容*/
+.experience_content {
+  font-size: 4vw;
+  line-height: 8vw;
+  color: #666;
+  text-indent: 2em;
+}

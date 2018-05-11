@@ -1,0 +1,59 @@
+/* pages/components/personInfo/personInfo.wxss */
+
+/*个人信息部分样式*/
+.view_infor .box {
+  width: 90vw;
+  height: 10vw;
+  line-height: 10vw;
+  margin: 2vw auto;
+  background: #fff;
+  font-size: 5vw;
+  color: #333;
+}
+.view_infor .box .box_left {
+  width: 30vw;
+  float: left;
+  letter-spacing: 3px;
+  /* text-align: justify;
+  text-align-last:justify; */
+  text-align: right;
+}
+
+.view_infor .box .box_right {
+  width: 60vw;
+  float: right;
+  letter-spacing: 4px;
+}
+
+.view_infor .box .box_right.letter {
+  letter-spacing: 0;
+}
+
+.view_infor .box .box_right .call_me{
+  width: 20vw;
+  height: 8vw;
+  line-height: 8vw;
+  text-align: center;
+  float: right;
+  background: #9eea6a;
+  border: 1px solid #eee;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 4vw;
+  margin-top: 1vw;
+}
+
+/* 添加到通讯录*/
+.add_phone {
+  width: 80vw;
+  height: 10vw;
+  font-size: 5vw;
+  line-height: 10vw;
+  text-align: center;
+  letter-spacing: 4px;
+  background: #9eea6a;
+  border: 1px solid #eee;
+  margin: 4vw auto 10vw;
+  color: #fff;
+  border-radius: 5px;
+}

@@ -1,0 +1,32 @@
+<view class="container">
+  <view class="outer_box">
+    <view class="view_top_title">职业技能</view> 
+    <view class="skill_box">
+      <view class="left">1.</view>
+      <view class="right">精通html+css+jQuery，html5+css3+jQuery制作符合W3C标准的pc端、移动端、微信以及微信小程序动态页面。</view> 
+    </view>
+    <view class="skill_box">
+     <view class="left">2.</view><view class="right"> 工作中习惯使用less、requirejs，实现样式和js的模块化开发管理。</view>
+    </view>
+    <view class="skill_box">
+     <view class="left">3.</view>
+     <view class="right">熟悉git，svn版本管理器，工作中一般使用svn，个人比较喜欢git，热爱开源，（https://github.com/baiyuntian1）这是我的Git库。</view>
+    </view>
+    <view class="skill_box">
+      <view class="left">4.</view>
+      <view class="right">熟悉nodejs，有nodejs数据绑定方面的经验，熟练使用npm，bower等包管理器。</view>
+    </view>
+    <view class="skill_box">
+      <view class="left">5.</view>
+      <view class="right">熟悉fis3项目构建工具，有fis3与requirejs联合使用经验，使用fis3进行项目优化，大大的减小了项目体积，和http请求数量，提高网站速度。</view>
+    </view>
+    <view class="skill_box">
+      <view class="left">6.</view>
+      <view class="right">熟练使用VScode，sublime，photoshop等工具。</view>
+    </view>
+    <view class="skill_box">
+      <view class="left">7.</view>
+      <view class="right">对webpack，gulp等前端构建工具略有研究。</view>
+    </view>
+  </view>
+</view>

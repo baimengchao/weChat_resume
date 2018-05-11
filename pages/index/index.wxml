@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="myPhone" src="/images/11.png"></image>
+  <personInfo></personInfo>
+</view>
